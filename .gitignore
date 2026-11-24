@@ -1,0 +1,13 @@
+
+LICENSE
+README.md
+_config.yml
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+.env
+*.log
