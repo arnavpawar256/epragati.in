@@ -6,7 +6,7 @@
 
 ## Pragati Public Library, Shirgaon
 
-**A welcoming digital home for reading, learning, discovery, and community.**
+**A welcoming digital home for reading, learning and discovery.**
 
 <p>
   <a href="https://epragati.in/"><strong>🌐 Visit the live website</strong></a>
@@ -152,7 +152,7 @@ Walwa, Sangli, Maharashtra — **416313, India**
 - 🌐 **Website:** [epragati.in](https://epragati.in/)
 - 📍 **Map:** [Find the library on Google Maps](https://www.google.com/maps/search/?api=1&query=Pragati+Public+Library+Shirgaon+416313)
 
-## 🙏 A community story
+## 📖 A community story
 
 The library’s new home and continuing work are supported by local residents, readers, families, donors, institutions, and well-wishers. The website preserves that journey while making future learning opportunities easier to find.
 
